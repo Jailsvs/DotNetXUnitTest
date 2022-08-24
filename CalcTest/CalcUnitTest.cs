@@ -68,6 +68,13 @@ namespace CalcTest
             Assert.Equal(expectedValue, result);
         }
 
+        [Fact]
+        public void IsEvenNumber()
+        {
+            var result = Calc.IsEvenNumber(10);
+            Assert.Equal(true, result);
+        }
+
         [Theory]
         [InlineData(1,2,3)]
         [InlineData(-4,-6,-10)]
