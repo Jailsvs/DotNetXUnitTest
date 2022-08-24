@@ -1,0 +1,15 @@
+C:\Users\jails\Documents\Git\CalcXUnitTest\ConsoleCalc\bin\Debug\net6.0\ConsoleCalc.exe
+C:\Users\jails\Documents\Git\CalcXUnitTest\ConsoleCalc\bin\Debug\net6.0\ConsoleCalc.deps.json
+C:\Users\jails\Documents\Git\CalcXUnitTest\ConsoleCalc\bin\Debug\net6.0\ConsoleCalc.runtimeconfig.json
+C:\Users\jails\Documents\Git\CalcXUnitTest\ConsoleCalc\bin\Debug\net6.0\ConsoleCalc.dll
+C:\Users\jails\Documents\Git\CalcXUnitTest\ConsoleCalc\bin\Debug\net6.0\ConsoleCalc.pdb
+C:\Users\jails\Documents\Git\CalcXUnitTest\ConsoleCalc\obj\Debug\net6.0\ConsoleCalc.csproj.AssemblyReference.cache
+C:\Users\jails\Documents\Git\CalcXUnitTest\ConsoleCalc\obj\Debug\net6.0\ConsoleCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jails\Documents\Git\CalcXUnitTest\ConsoleCalc\obj\Debug\net6.0\ConsoleCalc.AssemblyInfoInputs.cache
+C:\Users\jails\Documents\Git\CalcXUnitTest\ConsoleCalc\obj\Debug\net6.0\ConsoleCalc.AssemblyInfo.cs
+C:\Users\jails\Documents\Git\CalcXUnitTest\ConsoleCalc\obj\Debug\net6.0\ConsoleCalc.csproj.CoreCompileInputs.cache
+C:\Users\jails\Documents\Git\CalcXUnitTest\ConsoleCalc\obj\Debug\net6.0\ConsoleCalc.dll
+C:\Users\jails\Documents\Git\CalcXUnitTest\ConsoleCalc\obj\Debug\net6.0\refint\ConsoleCalc.dll
+C:\Users\jails\Documents\Git\CalcXUnitTest\ConsoleCalc\obj\Debug\net6.0\ConsoleCalc.pdb
+C:\Users\jails\Documents\Git\CalcXUnitTest\ConsoleCalc\obj\Debug\net6.0\ConsoleCalc.genruntimeconfig.cache
+C:\Users\jails\Documents\Git\CalcXUnitTest\ConsoleCalc\obj\Debug\net6.0\ref\ConsoleCalc.dll

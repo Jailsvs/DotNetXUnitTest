@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCalc", "ConsoleCalc.csproj", "{1CDCF256-06D8-4CFD-BC5B-EC19FE325145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcTest", "..\CalcTest\CalcTest.csproj", "{BCBA47C4-A2FC-418C-BEC3-FC9449DCC96F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CDCF256-06D8-4CFD-BC5B-EC19FE325145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDCF256-06D8-4CFD-BC5B-EC19FE325145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CDCF256-06D8-4CFD-BC5B-EC19FE325145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDCF256-06D8-4CFD-BC5B-EC19FE325145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCBA47C4-A2FC-418C-BEC3-FC9449DCC96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBA47C4-A2FC-418C-BEC3-FC9449DCC96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBA47C4-A2FC-418C-BEC3-FC9449DCC96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBA47C4-A2FC-418C-BEC3-FC9449DCC96F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B506BAA-EEA1-4713-A8EC-D02326CD73CA}
+	EndGlobalSection
+EndGlobal
